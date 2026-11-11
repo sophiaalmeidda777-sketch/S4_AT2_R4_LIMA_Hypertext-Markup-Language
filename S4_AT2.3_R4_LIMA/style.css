@@ -3,3 +3,17 @@ body {
     color: rgb(28, 160, 193);
     font-family: 'Silkscreen', sans-serif;
 }
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid rgb(28, 160, 193);
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #101010;
+}
